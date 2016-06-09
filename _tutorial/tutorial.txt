@@ -1,0 +1,6 @@
+//express and nodeJS
+https://www.youtube.com/watch?v=xDCKcNBFsuI
+
+//deploy in heroku
+https://www.youtube.com/watch?v=uLF_hmtxAsY
+
