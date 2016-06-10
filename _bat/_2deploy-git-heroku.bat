@@ -1,3 +1,2 @@
-REM run app
-cd C:\Users\AdminPC\Documents\BackEnd_Javascript_nodeJS_1express\proj004_expresstut
-node expresstut.js
+REM link to create the script
+REM https://www.youtube.com/watch?v=uLF_hmtxAsY
